@@ -1,0 +1,4 @@
+timestamp,device_id,energy_consumed,energy_consumed_normalized
+26-08-2024 10:15,device_4,12,0.208333333
+26-08-2024 23:45,device_2,25,0.479166667
+26-08-2024 13:20,device_1,50,1
